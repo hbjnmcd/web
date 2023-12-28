@@ -1,4 +1,4 @@
-baseURL = 'https://hbjnmcd.github.io/web_lw'
+baseURL = 'https://hbjnmcd.github.io/web'
 languageCode = 'ru-ru'
 title = 'Портфолио'
 theme = "beautifulhugo"
