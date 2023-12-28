@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Портфолио</title>
+    <link>https://hbjnmcd.github.io/web_lw/tags/code/</link>
+    <description>Recent content in code on Портфолио</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hbjnmcd.github.io/web_lw/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Лабораторная работа №2</title>
+      <link>https://hbjnmcd.github.io/web_lw/post/2016-03-08-code-sample/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/post/2016-03-08-code-sample/</guid>
+      <description>Лабораторная работа №2  Задание  </description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа 1</title>
+      <link>https://hbjnmcd.github.io/web_lw/post/2015-01-04-first-post/</link>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/post/2015-01-04-first-post/</guid>
+      <description>Лабораторная работа №1  Задание 1 Задание 2 Задание 3 Задание 4 Задание 5 Задание 6 Задание 7  </description>
+    </item>
+    
+  </channel>
+</rss>

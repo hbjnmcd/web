@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Первая лабораторная работа on Портфолио</title>
+    <link>https://hbjnmcd.github.io/web_lw/</link>
+    <description>Recent content in Первая лабораторная работа on Портфолио</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hbjnmcd.github.io/web_lw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Лабораторная работа №2</title>
+      <link>https://hbjnmcd.github.io/web_lw/post/2016-03-08-code-sample/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/post/2016-03-08-code-sample/</guid>
+      <description>Лабораторная работа №2  Задание  </description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа 1</title>
+      <link>https://hbjnmcd.github.io/web_lw/post/2015-01-04-first-post/</link>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/post/2015-01-04-first-post/</guid>
+      <description>Лабораторная работа №1  Задание 1 Задание 2 Задание 3 Задание 4 Задание 5 Задание 6 Задание 7  </description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа 1</title>
+      <link>https://hbjnmcd.github.io/web_lw/page/work_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/page/work_1/</guid>
+      <description>Exercise 01 - Погода  Необходимо создать приложение, которое отображает погоду в городе (а также температуру и влажность) После ввода города при нажатии на кнопку реализуется обращение к сайту https://wttr.in Ссылка на скрипт  </description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа 1</title>
+      <link>https://hbjnmcd.github.io/web_lw/page/work_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/page/work_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа 1</title>
+      <link>https://hbjnmcd.github.io/web_lw/page/work_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/page/work_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа 1</title>
+      <link>https://hbjnmcd.github.io/web_lw/page/work_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/page/work_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа 1</title>
+      <link>https://hbjnmcd.github.io/web_lw/page/work_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/page/work_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа 1</title>
+      <link>https://hbjnmcd.github.io/web_lw/page/work_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/page/work_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа 1</title>
+      <link>https://hbjnmcd.github.io/web_lw/page/work_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/page/work_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Про нас</title>
+      <link>https://hbjnmcd.github.io/web_lw/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbjnmcd.github.io/web_lw/page/about/</guid>
+      <description>Данный сайт предназначен для выкладывания работ по Веб-проектированию. В работе принимали участие Закаблукова Анастасия, Костылева Элеонора и Нечаева Наталья.
+Что тут можно найти?  Задания лабораторных работ Описание к ним А также объяснение, почему оно именно так и не иначе  </description>
+    </item>
+    
+  </channel>
+</rss>
